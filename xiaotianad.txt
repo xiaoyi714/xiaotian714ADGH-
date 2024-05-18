@@ -76,6 +76,7 @@
 ||ads-sg.tiktok.com^
 ||analytics-sg.tiktok.com^
 ||ads.tiktok.com^
+||log.byteoversea.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||analytics.query.yahoo.com^
